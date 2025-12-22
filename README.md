@@ -322,7 +322,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Vodex](#vodex) - Vertical
 - [Fluents](#fluents) - Vertical
 - [Maple](#maple) - Vertical
-
+- [LLMRTC](#llmrtc) - Tech
 ## Detailed Descriptions
 
 ### <a id='retell-ai'></a>Retell Ai
@@ -4009,6 +4009,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 ---
 
+### <a id='llmrtc'></a>LLMRTC
+
+**Category:** Tech
+
+**Description:** TypeScript SDK for building real-time voice + vision AI apps over WebRTC (streaming STT→LLM→TTS, server-side VAD + barge-in, provider-agnostic orchestration).
+
+**Website:** [https://github.com/llmrtc/llmrtc](https://github.com/llmrtc/llmrtc)
+
+---
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -4018,4 +4028,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-*Last updated: 2025-06-15*
+*Last updated: 2025-12-22*
