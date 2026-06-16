@@ -4,6 +4,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 ## Quick List
 
+- [AnveVoice](#anvevoice) - Platform
 - [Retell Ai](#retell-ai) - Platform
 - [Fonio AI](#fonio-ai) - Platform
 - [Mixhalo](#mixhalo) - Vertical
@@ -324,6 +325,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Maple](#maple) - Vertical
 - [LLMRTC](#llmrtc) - Tech
 ## Detailed Descriptions
+
+### <a id='anvevoice'></a>AnveVoice
+
+**Category:** Platform
+
+**Description:** Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier.
+
+**Website:** [https://anvevoice.app](https://anvevoice.app)
+
+---
 
 ### <a id='retell-ai'></a>Retell Ai
 
