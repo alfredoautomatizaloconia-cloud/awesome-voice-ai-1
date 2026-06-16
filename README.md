@@ -59,6 +59,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Ultravox - Fixie](#ultravox---fixie) - Tech
 - [Avallon](#avallon) - Vertical
 - [Replika](#replika) - Vertical
+- [Kissable](#kissable) - Vertical
 - [Camb.ai](#cambai) - Vertical
 - [Issen](#issen) - Vertical
 - [Paratus Health](#paratus-health) - Vertical
@@ -944,6 +945,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 
 **Website:** [https://replika.com/](https://replika.com/)
+
+---
+
+### <a id='kissable'></a>Kissable
+
+**Category:** Vertical
+
+**Description:** AI companion with persistent memory, together photos, video generation, community scenario catalog, emotional voice, and unlimited messages.
+
+**Website:** [https://kissable.app](https://kissable.app)
 
 ---
 
