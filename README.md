@@ -27,6 +27,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Speechly](#speechly) - Vertical
 - [VAPI](#vapi) - Platform
 - [Speechmatics](#speechmatics) - Tech
+- [PolarGrid](#polargrid) - Tech
 - [Voice Infra](#voice-infra) - Platform
 - [MiniMax](#minimax) - Tech
 - [Radiantgraph](#radiantgraph) - Vertical
@@ -576,6 +577,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 
 **Website:** [https://www.speechmatics.com/](https://www.speechmatics.com/)
+
+---
+
+### <a id='polargrid'></a>PolarGrid
+
+**Category:** Tech
+
+**Description:** Edge AI inference platform for voice agents. Runs STT (Whisper, Cohere Transcribe), TTS (Hume TADA, Kokoro), and LLM (Qwen 3.5) models on distributed NVIDIA Blackwell GPU nodes across North America. OpenAI-compatible API with automatic latency-optimized routing.
+
+**Website:** [https://polargrid.ai](https://polargrid.ai)
 
 ---
 
