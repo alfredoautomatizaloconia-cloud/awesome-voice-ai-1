@@ -326,6 +326,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Fluents](#fluents) - Vertical
 - [Maple](#maple) - Vertical
 - [LLMRTC](#llmrtc) - Tech
+- [Hermes](#hermes) - Platform
 ## Detailed Descriptions
 
 ### <a id='anvevoice'></a>AnveVoice
@@ -4049,6 +4050,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 **Description:** TypeScript SDK for building real-time voice + vision AI apps over WebRTC (streaming STT→LLM→TTS, server-side VAD + barge-in, provider-agnostic orchestration).
 
 **Website:** [https://github.com/llmrtc/llmrtc](https://github.com/llmrtc/llmrtc)
+
+---
+
+### <a id='hermes'></a>Hermes
+
+**Category:** Platform
+
+**Description:** White-label voice agent platform for agencies, with built-in CRM, campaign orchestration, and per-client usage billing. Plans from $149/month with 300 included minutes.
+
+**Website:** [https://buildwithhermes.com](https://buildwithhermes.com)
 
 ---
 
